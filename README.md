@@ -18,5 +18,7 @@ Improvements to focus:
    sectioning
    common syntax.
    practice practice practice.
+   
+[View result](https://vistapuri.github.io/google-homepage/)
 
 From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)
